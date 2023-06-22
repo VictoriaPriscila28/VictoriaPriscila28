@@ -1,6 +1,6 @@
 ### 🌻 Hi there, I am Victória Priscila 👩‍🦱  
 ### 📓 I'm currently studying analysis and systems development 👩‍🎓
-### 🖥️ I’m currently learning kotlin, python, javascript and C++ 💻
+### 🖥️ I’m currently learning python, C, java and mysql  💻
 ### 🌱 I'm new on these tech things, but I'll try my best to add more projects✨
 
 </div>
@@ -14,6 +14,9 @@
 <img align="left" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   
   <img align="left" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
+  
+          
   
   
   <a href="https://instagram.com/victoriapriscila_28" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
