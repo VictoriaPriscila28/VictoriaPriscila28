@@ -1,6 +1,6 @@
 ### 🌻 _Hi there, I am Victória Priscila_ 👩‍🦱  
-### 📓 _I'm currently studying analysis and systems development_ 👩‍🎓
-### 🖥️ _I’m currently learning python, C, java and mysql_  💻
+### 📓 _I'm studying Analysis and Systems Development_ 👩‍🎓
+### 🖥️ _I’m currently learning python, kotlin and mysql_  💻
 ### 🌱 _I'm new on these tech things_, _but I'll try my best to add more projects_ ✨
 
 </div>
