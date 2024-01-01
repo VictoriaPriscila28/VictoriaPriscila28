@@ -1,7 +1,12 @@
-### 🌻 _Hi there, I am Victória Priscila_ 👩‍🦱  
-### 📓 _I'm studying Analysis and Systems Development_ 👩‍🎓
-### 🖥️ _I’m currently learning python, kotlin and mysql_  💻
-### 🌱 _I'm new on these tech things_, _but I'll try my best to add more projects_ ✨
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45"</p>
+  
+#### 🌻 Hi there, I am Victória Priscila 👩‍🦱 
+#### Some aspects about me: 
+- Currently studying Analysis and Systems Devolopment, but before I did 2 years of environmental and agricultural engineering 🤓
+- I like to adventure myself in new languages and projects ⭐
+- Now I'm studying cybersecurity, and one day hope to work as Pentester 💻
+- When I was on high school I did a exchange program in Canada 🇨🇦
 
 </div>
   <div align="left">
@@ -10,19 +15,31 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapriscila28&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+---
+### :books: Main skills and tools:
 
-<img align="left" alt="Victoria-Kotlin" height="60" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Rafa-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="left" alt="Victoria-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="left" alt="Rafa-Arduino" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+- Back-End
+  ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-  
-<img align="left" alt="Rafa-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Victoria-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Victoria-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+- Front-End
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-  
-<a href="https://instagram.com/victoriapriscila_28" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+- Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- Mobile
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+- Design
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+- Embledded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### 📫 Contact:
+
 <a href="https://www.linkedin.com/in/vict%C3%B3ria-priscila-244076216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
