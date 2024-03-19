@@ -3,7 +3,8 @@
   
 #### 🌻 Hi there, I am Victória Priscila 👩‍🦱 
 #### Some aspects about me: 
-- Currently studying Analysis and Systems Devolopment, but before I did 2 years of environmental and agricultural engineering 🤓
+- Currently studying Analysis and Systems Devolopment, but before I did 2 years of
+<br>environmental and agricultural engineering 🤓
 - I like to adventure myself in new languages and projects ⭐
 - Now I'm studying cybersecurity, and one day hope to work as Pentester 💻
 - When I was on high school I did a exchange program in Canada 🇨🇦
