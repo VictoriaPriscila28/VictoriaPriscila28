@@ -7,7 +7,7 @@
 <br>environmental and agricultural engineering 🤓
 - I like to adventure myself in new languages and projects ⭐
 - Now I'm studying c# and python 💻
-- When I was on high school I did an exchange program in Canada 
+- When I was on high school I did an exchange program in Canada ❤️
 
 </div>
   <div align="left">
