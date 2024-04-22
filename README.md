@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45"</p>
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&left=true&width=380&height=45"</p>
   
 #### 🌻 Hi there, I am Victória Priscila 👩‍🦱 
 #### Some aspects about me: 
@@ -12,8 +12,8 @@
 </div>
   <div align="left">
   <a href="https://github.com/VictoriaPriscila28">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriapriscila28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapriscila28&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=victoriapriscila28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapriscila28&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 ---
